@@ -1,0 +1,1 @@
+In the Odin Recipes project, I will be setting up a basic HTML site to display recipes. During this project, I will demonstrate my abilities to use basit git commands, write simple HTML code, create links to other pages, and include images. 
